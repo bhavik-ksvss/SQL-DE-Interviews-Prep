@@ -25,7 +25,7 @@ Always handle NULL in filters
 ## Common Mistakes
 - = NULL (wrong)
 - Missing NULL in WHERE
-- Using COUNT incorrectly
+- Using COUNT incorrectlygit
 
 ## Interview Tip
 Mention NULL handling explicitly
